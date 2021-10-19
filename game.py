@@ -31,3 +31,4 @@ def random_predict(number: int = 1) -> int:
         mid_number = (min_number + max_number)//2
    
           # выход из цикла если угадали число
+          
